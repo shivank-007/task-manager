@@ -47,8 +47,8 @@ git clone https://github.com/shivank-007/task-manager.git
 4. Right-click on `index.html` and select **Open with Live Server**.
 
 ## 📸 Screenshot
+![Task Manager](screenshot.png)
 
-Add a screenshot of the application here.
 
 ## 🌐 Live Demo
 
